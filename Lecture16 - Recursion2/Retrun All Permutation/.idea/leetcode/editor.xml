@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1217]Minimum Cost to Move Chips to The Same Position.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1217]Minimum Cost to Move Chips to The Same Position.md" />
+              <option name="frontendQuestionId" value="leetcode.com1217" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1217]Minimum Cost to Move Chips to The Same Position.java" />
+              <option name="titleSlug" value="minimum-cost-to-move-chips-to-the-same-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1252]Cells with Odd Values in a Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1252]Cells with Odd Values in a Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com1252" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1252]Cells with Odd Values in a Matrix.java" />
+              <option name="titleSlug" value="cells-with-odd-values-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1295]Find Numbers with Even Number of Digits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1295]Find Numbers with Even Number of Digits.md" />
+              <option name="frontendQuestionId" value="leetcode.com1295" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1295]Find Numbers with Even Number of Digits.java" />
+              <option name="titleSlug" value="find-numbers-with-even-number-of-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1304]Find N Unique Integers Sum up to Zero.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1304]Find N Unique Integers Sum up to Zero.md" />
+              <option name="frontendQuestionId" value="leetcode.com1304" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1304]Find N Unique Integers Sum up to Zero.java" />
+              <option name="titleSlug" value="find-n-unique-integers-sum-up-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1365]How Many Numbers Are Smaller Than the Current Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1365]How Many Numbers Are Smaller Than the Current Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com1365" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1365]How Many Numbers Are Smaller Than the Current Number.java" />
+              <option name="titleSlug" value="how-many-numbers-are-smaller-than-the-current-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1380]Lucky Numbers in a Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1380]Lucky Numbers in a Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com1380" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1380]Lucky Numbers in a Matrix.java" />
+              <option name="titleSlug" value="lucky-numbers-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1389]Create Target Array in the Given Order.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1389]Create Target Array in the Given Order.md" />
+              <option name="frontendQuestionId" value="leetcode.com1389" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1389]Create Target Array in the Given Order.java" />
+              <option name="titleSlug" value="create-target-array-in-the-given-order" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1431]Kids With the Greatest Number of Candies.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1431]Kids With the Greatest Number of Candies.md" />
+              <option name="frontendQuestionId" value="leetcode.com1431" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1431]Kids With the Greatest Number of Candies.java" />
+              <option name="titleSlug" value="kids-with-the-greatest-number-of-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1470]Shuffle the Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1470]Shuffle the Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1470" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1470]Shuffle the Array.java" />
+              <option name="titleSlug" value="shuffle-the-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1480]Running Sum of 1d Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1480]Running Sum of 1d Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1480" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1480]Running Sum of 1d Array.java" />
+              <option name="titleSlug" value="running-sum-of-1d-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1512]Number of Good Pairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1512]Number of Good Pairs.md" />
+              <option name="frontendQuestionId" value="leetcode.com1512" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1512]Number of Good Pairs.java" />
+              <option name="titleSlug" value="number-of-good-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1572]Matrix Diagonal Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1572]Matrix Diagonal Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1572" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1572]Matrix Diagonal Sum.java" />
+              <option name="titleSlug" value="matrix-diagonal-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1672]Richest Customer Wealth.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1672]Richest Customer Wealth.md" />
+              <option name="frontendQuestionId" value="leetcode.com1672" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1672]Richest Customer Wealth.java" />
+              <option name="titleSlug" value="richest-customer-wealth" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1732]Find the Highest Altitude.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1732]Find the Highest Altitude.md" />
+              <option name="frontendQuestionId" value="leetcode.com1732" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1732]Find the Highest Altitude.java" />
+              <option name="titleSlug" value="find-the-highest-altitude" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1773]Count Items Matching a Rule.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1773]Count Items Matching a Rule.md" />
+              <option name="frontendQuestionId" value="leetcode.com1773" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1773]Count Items Matching a Rule.java" />
+              <option name="titleSlug" value="count-items-matching-a-rule" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1832]Check if the Sentence Is Pangram.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1832]Check if the Sentence Is Pangram.md" />
+              <option name="frontendQuestionId" value="leetcode.com1832" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1832]Check if the Sentence Is Pangram.java" />
+              <option name="titleSlug" value="check-if-the-sentence-is-pangram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1854]Maximum Population Year.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1854]Maximum Population Year.md" />
+              <option name="frontendQuestionId" value="leetcode.com1854" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1854]Maximum Population Year.java" />
+              <option name="titleSlug" value="maximum-population-year" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1886]Determine Whether Matrix Can Be Obtained By Rotation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1886]Determine Whether Matrix Can Be Obtained By Rotation.md" />
+              <option name="frontendQuestionId" value="leetcode.com1886" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1886]Determine Whether Matrix Can Be Obtained By Rotation.java" />
+              <option name="titleSlug" value="determine-whether-matrix-can-be-obtained-by-rotation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1920]Build Array from Permutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1920]Build Array from Permutation.md" />
+              <option name="frontendQuestionId" value="leetcode.com1920" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1920]Build Array from Permutation.java" />
+              <option name="titleSlug" value="build-array-from-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1929]Concatenation of Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1929]Concatenation of Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1929" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1929]Concatenation of Array.java" />
+              <option name="titleSlug" value="concatenation-of-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com26" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[53]Maximum Subarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[53]Maximum Subarray.md" />
+              <option name="frontendQuestionId" value="leetcode.com53" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[53]Maximum Subarray.java" />
+              <option name="titleSlug" value="maximum-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[54]Spiral Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[54]Spiral Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com54" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[54]Spiral Matrix.java" />
+              <option name="titleSlug" value="spiral-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[566]Reshape the Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[566]Reshape the Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com566" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[566]Reshape the Matrix.java" />
+              <option name="titleSlug" value="reshape-the-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[59]Spiral Matrix II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[59]Spiral Matrix II.md" />
+              <option name="frontendQuestionId" value="leetcode.com59" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[59]Spiral Matrix II.java" />
+              <option name="titleSlug" value="spiral-matrix-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[66]Plus One.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[66]Plus One.md" />
+              <option name="frontendQuestionId" value="leetcode.com66" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[66]Plus One.java" />
+              <option name="titleSlug" value="plus-one" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[832]Flipping an Image.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[832]Flipping an Image.md" />
+              <option name="frontendQuestionId" value="leetcode.com832" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[832]Flipping an Image.java" />
+              <option name="titleSlug" value="flipping-an-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[867]Transpose Matrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[867]Transpose Matrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com867" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[867]Transpose Matrix.java" />
+              <option name="titleSlug" value="transpose-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[885]Spiral Matrix III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[885]Spiral Matrix III.md" />
+              <option name="frontendQuestionId" value="leetcode.com885" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[885]Spiral Matrix III.java" />
+              <option name="titleSlug" value="spiral-matrix-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[989]Add to Array-Form of Integer.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[989]Add to Array-Form of Integer.md" />
+              <option name="frontendQuestionId" value="leetcode.com989" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[989]Add to Array-Form of Integer.java" />
+              <option name="titleSlug" value="add-to-array-form-of-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

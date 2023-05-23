@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[754]Reach a Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[754]Reach a Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com754" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[754]Reach a Number.java" />
+              <option name="titleSlug" value="reach-a-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

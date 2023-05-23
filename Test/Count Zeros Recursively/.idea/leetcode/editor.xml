@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1342]Number of Steps to Reduce a Number to Zero.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[1342]Number of Steps to Reduce a Number to Zero.md" />
+              <option name="frontendQuestionId" value="leetcode.com1342" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[1342]Number of Steps to Reduce a Number to Zero.java" />
+              <option name="titleSlug" value="number-of-steps-to-reduce-a-number-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
